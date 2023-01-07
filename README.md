@@ -25,8 +25,3 @@
 
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-
-- Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
-<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
